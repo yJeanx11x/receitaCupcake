@@ -1,0 +1,46 @@
+.contener {
+  width: 550px;
+  height: auto;
+  background-color: #f0e8c2;
+  border-radius: 15px;
+  font-size: 10pt;
+  margin: auto;
+  color: #573A37;
+
+}
+.contener h1{
+        color: #291b1a;
+
+}
+
+.imgs img {
+  width: 500px;
+  height: 270px;
+  padding: 20px;
+  border-radius: 40px;
+}
+
+.informacaoCafe {
+width: 200;
+height: 800;
+margin: 20px;
+margin-bottom: 150px;
+}
+.texto{
+        width: 480px;
+        
+}
+.title {
+  font-size: 21pt;
+}
+.info {
+  text-align: left;
+  margin: 20px;
+}
+.ingredientes{
+        text-align: left;
+        margin: 20px;
+}
+.modoDePeparo{
+        padding: 10px;
+}
